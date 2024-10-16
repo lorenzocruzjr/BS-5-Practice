@@ -15,6 +15,8 @@ bootstrap_crashcourse_241016_04 - Containers
 bootstrap_crashcourse_241016_05 - Grid Layout (Part1)
 → lesson-6
 
+bootstrap_crashcourse_241016_06 - lesson 1 to lesson 6 - update html
+
 Utility
 https://getbootstrap.com/docs/5.0/utilities/api/
 
