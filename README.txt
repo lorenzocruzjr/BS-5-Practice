@@ -20,6 +20,8 @@ bootstrap_crashcourse_241016_06 - lesson 1 to lesson 6 - update html
 bootstrap_crashcourse_241016_07 - Grid Layout (Part2) & navbars
 → lesson-7
 
+bootstrap_crashcourse_241022_01 - Cards
+
 Utility
 https://getbootstrap.com/docs/5.0/utilities/api/
 
@@ -28,3 +30,6 @@ https://getbootstrap.com/docs/5.0/layout/containers/
 
 Navbars
 https://getbootstrap.com/docs/5.0/components/navbar/
+
+Card
+https://getbootstrap.com/docs/5.3/components/card/
