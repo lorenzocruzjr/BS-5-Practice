@@ -10,6 +10,9 @@ https://getbootstrap.com/docs/5.0/components/navbar/
 Card
 https://getbootstrap.com/docs/5.3/components/card/
 
+Icons
+https://icons.getbootstrap.com/#install
+
 lesson-1 → Intro & Setup
 
 lesson-2 → BS5 Features
@@ -30,4 +33,6 @@ lesson-10 → Cards
 
 lesson-11 → Accordions
 
-lesson-12 →List Groups
+lesson-12 → List Groups
+
+lesson-13 → Icons
