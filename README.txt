@@ -1,3 +1,8 @@
+NOTES: THIS IS FOR SELF LEARNING ONLY!
+
+#### Instructor: Net Ninja
+#### YT: Account https://www.youtube.com/@NetNinja
+
 Utility
 https://getbootstrap.com/docs/5.0/utilities/api/
 
@@ -12,6 +17,9 @@ https://getbootstrap.com/docs/5.3/components/card/
 
 Icons
 https://icons.getbootstrap.com/#install
+
+Forms
+https://getbootstrap.com/docs/5.3/forms/overview/
 
 lesson-1 → Intro & Setup
 
@@ -36,3 +44,5 @@ lesson-11 → Accordions
 lesson-12 → List Groups
 
 lesson-13 → Icons
+
+lesson-14 → Working with Forms
