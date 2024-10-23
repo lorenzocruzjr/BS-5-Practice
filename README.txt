@@ -30,6 +30,9 @@ https://getbootstrap.com/docs/5.3/components/modal/
 Offcanvas
 https://getbootstrap.com/docs/5.3/components/offcanvas/
 
+Dropdowns
+https://getbootstrap.com/docs/5.3/components/dropdowns/
+
 lesson-1 → Intro & Setup
 
 lesson-2 → BS5 Features
@@ -61,3 +64,5 @@ lesson-15 → Tooltips
 lesson-16 → Modals
 
 lesson-17 → Offcanvas
+
+lesson-18 → Dropdowns
