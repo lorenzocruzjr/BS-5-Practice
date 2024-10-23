@@ -24,6 +24,9 @@ https://getbootstrap.com/docs/5.3/forms/overview/
 Tooltips
 https://getbootstrap.com/docs/5.3/components/tooltips/
 
+Modal
+https://getbootstrap.com/docs/5.3/components/modal/
+
 lesson-1 → Intro & Setup
 
 lesson-2 → BS5 Features
@@ -51,3 +54,5 @@ lesson-13 → Icons
 lesson-14 → Working with Forms
 
 lesson-15 → Tooltips
+
+lesson-15 → Modals
