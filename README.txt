@@ -27,6 +27,9 @@ https://getbootstrap.com/docs/5.3/components/tooltips/
 Modal
 https://getbootstrap.com/docs/5.3/components/modal/
 
+Offcanvas
+https://getbootstrap.com/docs/5.3/components/offcanvas/
+
 lesson-1 → Intro & Setup
 
 lesson-2 → BS5 Features
@@ -55,4 +58,6 @@ lesson-14 → Working with Forms
 
 lesson-15 → Tooltips
 
-lesson-15 → Modals
+lesson-16 → Modals
+
+lesson-17 → Offcanvas
