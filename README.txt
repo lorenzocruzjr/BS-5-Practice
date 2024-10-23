@@ -4,13 +4,13 @@ NOTES: THIS IS FOR SELF LEARNING ONLY!
 #### YT: Account https://www.youtube.com/@NetNinja
 
 Utility
-https://getbootstrap.com/docs/5.0/utilities/api/
+https://getbootstrap.com/docs/5.3/utilities/api/
 
 Containers
-https://getbootstrap.com/docs/5.0/layout/containers/
+https://getbootstrap.com/docs/5.3/layout/containers/
 
 Navbars
-https://getbootstrap.com/docs/5.0/components/navbar/
+https://getbootstrap.com/docs/5.3/components/navbar/
 
 Card
 https://getbootstrap.com/docs/5.3/components/card/
@@ -20,6 +20,9 @@ https://icons.getbootstrap.com/#install
 
 Forms
 https://getbootstrap.com/docs/5.3/forms/overview/
+
+Tooltips
+https://getbootstrap.com/docs/5.3/components/tooltips/
 
 lesson-1 → Intro & Setup
 
@@ -46,3 +49,5 @@ lesson-12 → List Groups
 lesson-13 → Icons
 
 lesson-14 → Working with Forms
+
+lesson-15 → Tooltips
