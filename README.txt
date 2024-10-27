@@ -33,6 +33,9 @@ https://getbootstrap.com/docs/5.3/components/offcanvas/
 Dropdowns
 https://getbootstrap.com/docs/5.3/components/dropdowns/
 
+Tabs
+https://getbootstrap.com/docs/5.3/components/navs-tabs/
+
 lesson-1 → Intro & Setup
 
 lesson-2 → BS5 Features
@@ -68,3 +71,5 @@ lesson-17 → Offcanvas
 lesson-18 → Dropdowns
 
 lesson-19 → Customizing Bootstrp
+
+lesson-20 → Tabs
